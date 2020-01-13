@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>Finding-Services-Using-Service-Discovery</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>discovery-server</module>
+    <module>config-server</module>
+    <module>config-client-app-with-refresh</module>
+  </modules>
+</project> 
