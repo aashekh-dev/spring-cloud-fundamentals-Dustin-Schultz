@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>load-balancing-using-ribbon-with-service-discovery</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>discovery-server</module>
+    <module>ribbon-time-service</module>
+    <module>ribbon-time-app</module>
+  </modules>
+</project> 
